@@ -1,6 +1,6 @@
 def reverse_each_word(sentence)
-  one = sentence.split(" ")
-  return one.reverse.join(" ")
+  
+  return sentence.split.reverse.join(" ")
 
 end
 
